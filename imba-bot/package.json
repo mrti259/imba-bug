@@ -1,0 +1,12 @@
+{
+  "name": "imba-bot",
+  "scripts": {
+    "start": "imba -w index.imba",
+    "build": "imba build index.imba"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "imba": "^2.0.0-alpha.208",
+    "telegraf": "^4.8.3"
+  }
+}
